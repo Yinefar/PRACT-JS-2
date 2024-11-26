@@ -38,6 +38,7 @@ let numeroAzar
 
 
 //implementos
+//manejo de eventos del DOM 
 
 function num() {
     numeroAzar = Math.floor(Math.random()*100) + 1
