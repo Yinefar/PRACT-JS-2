@@ -44,6 +44,7 @@ function num() {
     numeroAzar = Math.floor(Math.random()*100) + 1
     console.log(numeroAzar)
     document.getElementById('numberito').innerHTML = '?'
+    numberito.style.color = 'green'
 }
 function limpiar() {
     location.reload();
