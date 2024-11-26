@@ -49,7 +49,7 @@ function limpiar() {
     location.reload();
 }
 
-// esta accion se ba a ejecutar cuando se dé clic al boton chequear
+// esta accion se va a ejecutar cuando se dé clic al boton chequear
 
 
 function chequearResultado(){
