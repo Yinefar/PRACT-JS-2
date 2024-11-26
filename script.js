@@ -1,3 +1,5 @@
+///PRÁCTICA DE CONDICIONALES
+
 /*let edadPersona = 17
 if(edadPersona>= 18 && edadPersona <= 60){
     console.log("Puedes ingresar al boliche")
@@ -19,6 +21,10 @@ switch (stilosMusica) {
    console.log("No conoczco esta musica pero igual te recomiendo escucharla")
 
 }*/
+
+
+//////////////////////////////////////JUEGO - JS
+
 
 // acá el juego selecciona un número al azar para que adivines 
 
